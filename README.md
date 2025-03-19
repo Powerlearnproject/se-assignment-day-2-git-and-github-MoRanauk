@@ -49,8 +49,7 @@ Create a branch: git branch branch-name.
 Switch to the branch: git checkout branch-name.
 Merge branches: Create a pull request or use git merge.
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-	Propose changes to be merged into another branch.
-	Facilitate code reviews and discussions.
+Pull requests:Propose changes to be merged into another branch and Facilitate code reviews and discussions.	
 Steps: 
 Push the branch to GitHub.
 Create a pull request.
